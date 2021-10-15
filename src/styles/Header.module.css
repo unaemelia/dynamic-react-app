@@ -1,0 +1,14 @@
+.headerWrapper {
+    background-color: lightgray;
+    border-bottom: 1px solid #333;
+}
+
+.logoWrapper {
+    display: flex;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.logoWrapper h1 {
+    margin-top: 100px;
+}

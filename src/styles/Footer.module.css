@@ -1,0 +1,12 @@
+.footerWrapper {
+    background-color: lightgray;
+    border-top: 1px solid #333;
+    margin-top: 20px;
+    text-align: center;
+    height: 100px;
+}
+
+.footerWrapper p {
+    font-size: 18px;
+    padding-top: 20px;
+}
